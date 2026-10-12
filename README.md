@@ -17,11 +17,4 @@
   <img src="https://streak-stats.demolab.com?user=nguyen-duong-tien-phat&theme=transparent&hide_border=true&disable_animations=true&ring=3e2415&fire=3e2415&currStreakLabel=3e2415&currStreakNum=3e2415&sideNums=3e2415&sideLabels=3e2415" alt="GitHub streak" />
 </picture>
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyen-duong-tien-phat/nguyen-duong-tien-phat/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/nguyen-duong-tien-phat/nguyen-duong-tien-phat/output/github-snake.svg" alt="snake eating my contribution graph" />
-</picture>
-
 </div>
