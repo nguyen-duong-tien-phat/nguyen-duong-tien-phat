@@ -1,27 +1,26 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1600&color=A78BFA&center=true&vCenter=true&width=600&height=60&lines=Finn+Nguyen;software+engineer;web+%C2%B7+mobile+%C2%B7+backend" alt="Finn Nguyen" />
-
-</div>
-
 ```yaml
     /\_/\        finn@github
    ( o.o )       -----------
-    > ^ <        role:      software engineer
-                 location:  Ho Chi Minh City, VN
-                 frontend:  React, Next.js, Tailwind
-                 backend:   NestJS, .NET
-                 mobile:    Flutter
-                 building:  EventHub
-                 uptime:    since 2022
+    > ^ <        name:      Finn Nguyen
+                 role:      software engineer
+                 location:  Vietnam
 ```
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nestjs,dotnet,flutter,docker" alt="TypeScript, React, Next.js, Tailwind, NestJS, .NET, Flutter, Docker" />
+<a href="https://finn-ngn.vercel.app"><img src="https://img.shields.io/badge/portfolio-7c3aed?style=for-the-badge" alt="portfolio" /></a>
+<a href="https://www.linkedin.com/in/phat-nguyen-416758281/"><img src="https://img.shields.io/badge/linkedin-7c3aed?style=for-the-badge" alt="linkedin" /></a>
+<a href="mailto:phatndt268@gmail.com"><img src="https://img.shields.io/badge/email-7c3aed?style=for-the-badge" alt="email" /></a>
 
 <br><br>
 
-[portfolio](https://finn-ngn.vercel.app) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/phat-nguyen-416758281/) &nbsp;·&nbsp; [email](mailto:phatndt268@gmail.com)
+<img src="https://streak-stats.demolab.com?user=nguyen-duong-tien-phat&theme=transparent&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub streak" />
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyen-duong-tien-phat/nguyen-duong-tien-phat/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/nguyen-duong-tien-phat/nguyen-duong-tien-phat/output/github-snake.svg" alt="snake eating my contribution graph" />
+</picture>
 
 </div>
