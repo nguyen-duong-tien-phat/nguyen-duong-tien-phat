@@ -6,7 +6,9 @@
 
 <div align="center">
 
-[portfolio ↗](https://finn-ngn.vercel.app) &nbsp;&nbsp;&nbsp; [linkedin ↗](https://www.linkedin.com/in/phat-nguyen-416758281/) &nbsp;&nbsp;&nbsp; [email ↗](mailto:phatndt268@gmail.com)
+<a href="https://finn-ngn.vercel.app"><img src="assets/portfolio.svg" alt="portfolio" /></a>
+<a href="https://www.linkedin.com/in/phat-nguyen-416758281/"><img src="assets/linkedin.svg" alt="linkedin" /></a>
+<a href="mailto:phatndt268@gmail.com"><img src="assets/email.svg" alt="email" /></a>
 
 <br><br>
 
