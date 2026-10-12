@@ -1,16 +1,12 @@
 ```yaml
-    /\_/\        finn@github
-   ( o.o )       -----------
-    > ^ <        name:      Finn Nguyen
-                 role:      software engineer
-                 location:  Vietnam
+    /\_/\        name:      finn
+   ( o.o )       role:      software engineer
+    > ^ <        location:  Vietnam
 ```
 
 <div align="center">
 
-<a href="https://finn-ngn.vercel.app"><img src="https://img.shields.io/badge/portfolio-7c3aed?style=for-the-badge" alt="portfolio" /></a>
-<a href="https://www.linkedin.com/in/phat-nguyen-416758281/"><img src="https://img.shields.io/badge/linkedin-7c3aed?style=for-the-badge" alt="linkedin" /></a>
-<a href="mailto:phatndt268@gmail.com"><img src="https://img.shields.io/badge/email-7c3aed?style=for-the-badge" alt="email" /></a>
+[portfolio ↗](https://finn-ngn.vercel.app) &nbsp;&nbsp;&nbsp; [linkedin ↗](https://www.linkedin.com/in/phat-nguyen-416758281/) &nbsp;&nbsp;&nbsp; [email ↗](mailto:phatndt268@gmail.com)
 
 <br><br>
 
